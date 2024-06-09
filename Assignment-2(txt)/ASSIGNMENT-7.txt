@@ -1,0 +1,149 @@
+ASSIGNMENT-7
+
+HTML
+
+💡 WHAT IS HTML
+	HYper Text Markup Language
+
+💡 WHY HTML IS USED
+	To structure, put contents to our webpage.
+
+
+💡 What is Emmet & List 5 Emmet
+	IT is a plugin, shortcut easy and fast write to html.
+	!, html:5, link:css, p*5, div.para etc
+
+
+💡 SHORT CUT CREATE of Emmet Boiler plate of HTML
+	html:5
+
+
+💡 WHAT STRUCTURE OF HTML
+	<!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        </head>
+        <body>
+    
+        </body>
+        </html>
+
+DOCTYPE, html ,head,body
+
+
+
+💡 WHAT IS **HEAD** TAG	
+	it contains title, meta tag, links etc
+	contents inside the head are not displayed on the webpage. (inspect)
+	
+
+
+💡 WHAT IS BODY TAG
+	this contains the main contents to be displayed on the webpage.
+	everything inside this body tag, is displayed.
+
+
+💡 IMPORTANT 3 ELEMENTS OR TAGS
+	<h1></h1> to <h6></h6>
+	<p></p>
+	<button></button>
+
+
+💡 WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
+	h1, p, img, button these are all elements.
+whereas, <h1></h1> , <p></p> , <img/> these are all TAGS.
+	it contain opening and closing tags. 
+
+
+
+
+
+
+
+
+CSS
+
+
+
+💡 WHAT IS CSS
+	Cascading Style Sheet
+
+💡 WHY IS CSS
+	to style our webpage,to design, to add responsiveness
+
+
+💡 HOW TO CONNECT HTML & CSS , Tell the emmet Shortcut
+	link:css
+
+
+💡 HOW TO GET FONT & COLOR , IMAGE, CDN
+	for fonts, use google fonts.
+	go to google fonts->choose the font->get embedded code->copy the link or import code to your html or css file.
+	For image, use imagekit.io
+	download the image->upload it on imagekit.io->copy the cdn link->paste in your img src.
+	for color, use colorpicker extension to see what are all the colors used.
+	Use hexa code also.
+
+
+💡 BASIC CSS FAMILY : Text Family, Color & Background Family, Box Model
+	text: 
+		font-family
+		font-size
+		font-weight
+	Color:
+		color
+	Background:
+		background-color
+		background-image
+		background-size
+		background-position
+		background-repeat
+	Box-Model:
+		margin-top
+		margin-right
+		margin-bottom
+		margin-left
+		
+		padding-bottom
+		padding-left
+		padding-top
+		padding-right
+		
+		width, height
+		
+		border-width
+		border-radius
+		border-color
+		
+
+
+💡 WHEN TO USE **BACKGROUND IMG** VS **IMG TAG**
+	if you want to write some texts that to be displayed on the image, then use IMG TAG.
+	if you want jus an image to be displayed in the background, then use BACKGROUND IMG.
+
+
+💡 WHAT IS LAYOUT & Explain About flexbox Properties
+	Layout adds responsiveness to your website
+	the different screen sizes are layouts. 
+	example: mobile, tab, laptop, tv etc
+	Flex box and Grid used to achieve this responsiveness.
+	
+	flex
+	flex-direction
+	flex-wrap
+	felx-content
+	align-items
+
+
+💡 WHAT IS TAILWIND CSS & WHY IS IT USED
+	Tailwind css is a framework of css, utility class based framework
+	we can customize on our own.
+	it is mobile first approach.
+	it makes styling more convenient and easy to use.
+	ui friendly, flexible.
+
+
+

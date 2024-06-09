@@ -1,0 +1,32 @@
+1. What is the Shortcut Emmet Used to Create boilerplate of HTML ?
+
+		html:5
+
+2. What is DOCTYPE in Html ?
+
+		Latest version of HTML
+
+3. What is Void Element and Example for Void Elements ?
+
+		void elements: hr, br
+		non void: h1, p, img etc
+
+4. What is Different Element and Attributes ?
+
+		element: h1, p, img, br, form..
+		attributes: href, src, alt, height, width ..
+
+5. What is Html Entries and Why is it need in HTML ?
+
+		html entities begin with "&" and ends with ";" 
+		example: "&#169";
+		these symbols are not in our keypad, so to use these kinds of copyright 		symbols..and more we use this entities to display it on our website.
+
+6. What are meta tag and why is it used ?
+
+		it is data, <meta> tag used inside head tag
+		it tells the content on the page they're on.
+
+7. what is the best way to add images in Website ?
+
+		dynamic way - cdn approach (imagekit.io) 
